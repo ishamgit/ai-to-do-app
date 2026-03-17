@@ -5,7 +5,7 @@
 A full-stack to-do app that uses **Claude AI** to automatically
 assign priority and suggest an action tip for every task you add.
 
-🔗 **Live Demo:** [View App](https://ishamgit.github.io/ai-todo-app)
+🔗 **Live Demo:** [View App](https://ishamgit.github.io/ai-to-do-app)
 
 ---
 
@@ -92,4 +92,4 @@ ai-todo-app/
 
 **Isham Firoz** — CSE Student, BEU Patna (Batch 2023–27)
 
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/ishamgit)
+[LinkedIn](https://linkedin.com/in/ishamfiroz) • [GitHub](https://github.com/ishamgit)
